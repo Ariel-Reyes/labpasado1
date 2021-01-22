@@ -1,0 +1,3 @@
+Nombre Completo :Ariel Fernando Reyes Castellanos 
+N_cuenta : 11921023 
+git p3lab1_ArielReyes = https://github.com/Ariel-Reyes/P3Lab1_ArielReyes
